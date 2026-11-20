@@ -1,10 +1,10 @@
-##Sales Data Analysis Project
+**<<Sales Data Analysis Project>>**
 
 Hi! I am an aspiring Data Analyst and a B.Tech graduate in Artificial Intelligence and Data Science.
 
 This repository contains my Sales Data Analysis project, where I worked with Excel, Python (Pandas), MySQL, and Power BI. Through this project, I practiced different steps of data analysis, from working with raw data to creating a dashboard.
 
-## Tools & Technologies
+## Tools & Technologies:
 - Microsoft Excel
 - Python
 - Pandas
@@ -12,7 +12,7 @@ This repository contains my Sales Data Analysis project, where I worked with Exc
 - SQLAlchemy
 - Power BI
 
-##Project Structure
+**Project Structure:**
 
 ### 1.Excel – Data Cleaning
 - Worked with raw sales data.
@@ -36,17 +36,13 @@ This repository contains my Sales Data Analysis project, where I worked with Exc
 - Used charts and visualizations to understand sales performance.
 - Practiced presenting data in an easy-to-understand format.
 
-##Challenges & Learning
+**Challenges & Learning**
+-One of the challenging parts of this project was connecting Python Pandas with MySQL using SQLAlchemy.
+-I practiced using `create_engine()` to establish the database connection and `df.to_sql()` to transfer data from Pandas to  MySQL.
+-This helped me understand how Python can work with a MySQL database.
+-I also improved my understanding of data cleaning, SQL queries, data handling, and dashboard creation.
 
-One of the challenging parts of this project was connecting Python Pandas with MySQL using SQLAlchemy.
-
-I practiced using `create_engine()` to establish the database connection and `df.to_sql()` to transfer data from Pandas to MySQL.
-
-This helped me understand how Python can work with a MySQL database.
-
-I also improved my understanding of data cleaning, SQL queries, data handling, and dashboard creation.
-
-##Key Skills Practiced
+**Key Skills Practiced:**
 - Data Cleaning
 - Data Manipulation
 - Exploratory Data Analysis
@@ -55,8 +51,8 @@ I also improved my understanding of data cleaning, SQL queries, data handling, a
 - Data Visualization
 - Dashboard Creation
 
-##About Me
-
+**About Me:-**
 I am interested in Data Analytics and enjoy working with data using different tools. I am continuously learning and improving my skills through practical projects and hands-on practice.
-
 Thank you for visiting my project!
+
+**Author Name:** Mansi S. Sakhare
