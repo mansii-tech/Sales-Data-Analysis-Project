@@ -1,4 +1,4 @@
-#Sales Data Analysis Project
+##Sales Data Analysis Project
 
 Hi! I am an aspiring Data Analyst and a B.Tech graduate in Artificial Intelligence and Data Science.
 
